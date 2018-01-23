@@ -7,11 +7,11 @@ Tue, 3:20-5:00pm, in 60 5th Av, C10
 ### Lab (required for all students)
 Thu, 6.45- 7.35pm in  60 5th Av, C12
 
-# Instructor 
+###  Instructor 
 Cristina Savin, csavin@nyu.edu
 Office hours: Mo, 4-5pm, Room 608
 
-# TA 
+### TA 
 Yiqiu (Artie) Shen, ys1001@nyu.edu
 Office hours: Mo, 11am-12pm, Room 660
 
@@ -31,17 +31,8 @@ We will use [Piazza]( https://piazza.com/nyu/spring2018/dsga3001008/home) to ans
 ### Online recordings 
 Lecture videos will be posted to NYU Classes. Class attendance is still required.
 
-## Schedule
-|  Date          | Topic          |  Reference   materials | Homework Assignment  | Due date |
-| ---------------|------------------------| ----------------------------|---------------------------------|
-| Jan. 23 | Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series.| | |
-| Jan 25 | Lab 1: Simulating simple stochastic processes. Basic empirical statistics. | | |
-| Jan 30 |	Lecture 2: AR(I)MA  | | Problem set 1 | Febr. 8 |
-| Febr. 1| Lab 2: AR(I)MA | | |
-| Febr. 6|	Lecture 3: LDS; Kalman filtering | | Project ideas brainstorming | Proposal: Febr. 20 |
-| Febr. 8| Lab 3: LSD learning | | |
-| Febr. 13|	Particle filtering	| | Problem set 2| Febr 22 |
-| Febr. 15| Lab 4: Particle filtering | | |
+## Schedule and detailed syllabus
+[link]
 
 
 ### Bibliography
