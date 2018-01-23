@@ -54,7 +54,7 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |April 3 | Guest lecture: RNNs Kyunghyun Cho | | |
 |April 5| Recitation: read discuss RNNs state of the art| | |
 |April 10| Lecture 7 GP advanced topics: overcoming computational limitation; extrapolation SM kernels.|||
-|April 12| Lab 7: GP|||
+|April 12| Lab 7: GP|| Problem set 4, due April 20 |
 |April 17| Lecture 8 Spectral methods |||
 |April 19| Lab 8 |||
 |April 24| Lecture 9 Spectral methods 2|||
