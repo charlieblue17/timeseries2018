@@ -15,7 +15,7 @@ Office hours: Mo, 4-5pm, Room 608
 Yiqiu (Artie) Shen, ys1001@nyu.edu
 Office hours: Mo, 11am-12pm, Room 660
 
-### Syllabus
+### Overviews
 This graduate level course presents fundamental tools for characterizing data with statistical dependencies over time, and using this knowledge for predicting future outcomes. These methods have broad applications from econometrics to neuroscience. The course emphasizes generative models for time series, and inference and learning in such models. We will cover range of approaches including AR(I)MA, Kalman Filtering, HMMs, Gaussian Processes,  and their application to several kinds of data.
 
 Note: information presented is tentative, syllabus may be subject to change as the course progresses.
@@ -31,10 +31,11 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 
 ## Schedule and detailed syllabus
 
-| | Date | Lecture  |
-|----------|---------------|----------------|
-|Jan.23| [Lecture 1  |   |
-|Jan.25| Lab1 |  |
+| | Date | Lecture  | Extras | 
+|----------|---------------|----------------|----------------|
+|Jan.23| Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series. | Shumway Stoffer Ch.1  | |
+|Jan.25| Lab1: Simulating simple stochastic processes. Basic statistics. | | |
+|Jan.23| Lecture 2: AR(I)MA | | |
 
 
 [link]
