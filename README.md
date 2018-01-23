@@ -15,7 +15,7 @@ Office hours: Mo, 4-5pm, Room 608
 Yiqiu (Artie) Shen, ys1001@nyu.edu
 Office hours: Thu, 11am-12pm, Room 660
 
-### Overviews
+### Overview
 This graduate level course presents fundamental tools for characterizing data with statistical dependencies over time, and using this knowledge for predicting future outcomes. These methods have broad applications from econometrics to neuroscience. The course emphasizes generative models for time series, and inference and learning in such models. We will cover range of approaches including AR(I)MA, Kalman Filtering, HMMs, Gaussian Processes,  and their application to several kinds of data.
 
 Note: information presented is tentative, syllabus may be subject to change as the course progresses.
