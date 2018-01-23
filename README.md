@@ -13,7 +13,7 @@ Office hours: Mo, 4-5pm, Room 608
 
 ### TA 
 Yiqiu (Artie) Shen, ys1001@nyu.edu
-Office hours: Mo, 11am-12pm, Room 660
+Office hours: Thu, 11am-12pm, Room 660
 
 ### Overviews
 This graduate level course presents fundamental tools for characterizing data with statistical dependencies over time, and using this knowledge for predicting future outcomes. These methods have broad applications from econometrics to neuroscience. The course emphasizes generative models for time series, and inference and learning in such models. We will cover range of approaches including AR(I)MA, Kalman Filtering, HMMs, Gaussian Processes,  and their application to several kinds of data.
@@ -68,7 +68,7 @@ There is no required textbook. Assigned readings will come from freely-available
 #### Core materials
  - Time series analysis and its applications, by Shumway and Stoffer, 4th edition (freely available pdf)
  - Pattern recognition and machine learning, Bishop
- - Gaussian processes Rassmussen & Williams 
+ - Gaussian processes Rassmussen & Williams, (materials freely available online, including gpml library)
 
 #### Useful extras
  - [Review notes from Stanford's machine learning class](http://cs229.stanford.edu/section/cs229-prob.pdf)
