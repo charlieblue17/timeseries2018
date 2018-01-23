@@ -39,9 +39,9 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 There is no required textbook. Assigned readings will come from freely-available online material.
 
 #### Core materials
--Time series analysis and its applications, by Shumway and Stoffer, 4th edition
--Pattern recognition and machine learning, Bishop
--Gaussian processes Rassmussen & Williams 
+ - Time series analysis and its applications, by Shumway and Stoffer, 4th edition 
+ - Pattern recognition and machine learning, Bishop
+ - Gaussian processes Rassmussen & Williams 
 
 #### Useful extras
  - [Review notes from Stanford's machine learning class](http://cs229.stanford.edu/section/cs229-prob.pdf)
