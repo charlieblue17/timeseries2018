@@ -31,21 +31,42 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 
 ## Schedule and detailed syllabus
 
-| | Date | Lecture  | Extras | 
+| Date | Lecture  | Extras | |
 |----------|---------------|----------------|----------------|
 |Jan.23| Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series. | Shumway Stoffer Ch.1  | |
 |Jan.25| Lab1: Simulating simple stochastic processes. Basic statistics. | | |
-|Jan.23| Lecture 2: AR(I)MA | | |
-
-
-[link]
+|Jan.30| Lecture 2: AR(I)MA | Shumway Stoffer Ch.3 | |
+|Febr.1| Lab 2: AR(I)MA | | Problem set 1, due Febr.8 |
+|Febr.6| Lecture 3: LDS; Kalman filtering | | Brainstorm project ideas |
+|Febr.8| Lab 3: Basic probability review. LDS inference | | |
+|Febr.13 |Particle filtering | | |
+|Febr.15 |Lab LSD: learning  | | Problem set 2, due Febr.27|
+|Febr.20 |Lecture 4: Dimensionality reduction | |  Project proposal due!|
+|Febr.22| Lab 4: Dimensionality reduction | | |
+|Febr.27 | Lecture 5: HMMs, mixing it up| | |
+|March 1 | Lab 5: HMMs| | |
+|March 6 | Midterm | | |
+|March 8 | No lab | | Problem set 3, due March 22|
+|March 20| Guest lecture: State space models in the brain, Il Memming Park| | |
+|March 22| No lab | | |
+|March 27 | Lecture 6: GP basics | | |
+|March 29 | Lab: GP  | | |
+|April 3 | Guest lecture: RNNs Kyunghyun Cho | | |
+|April 5| Recitation: read discuss RNNs state of the art| | |
+|April 10| Lecture 7 GP advanced topics: overcoming computational limitation; extrapolation SM kernels.|||
+|April 12| Lab 7: GP|||
+|April 17| Lecture 8 Spectral methods |||
+|April 19| Lab 8 |||
+|April 24| Lecture 9 Spectral methods 2|||
+|April 26| Lab 9 |||
+|May 1| Final projects presentation || Corresponding reports due April 26!|
 
 
 ### Bibliography
 There is no required textbook. Assigned readings will come from freely-available online material.
 
 #### Core materials
- - Time series analysis and its applications, by Shumway and Stoffer, 4th edition 
+ - Time series analysis and its applications, by Shumway and Stoffer, 4th edition (freely available pdf)
  - Pattern recognition and machine learning, Bishop
  - Gaussian processes Rassmussen & Williams 
 
