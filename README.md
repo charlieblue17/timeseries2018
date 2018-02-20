@@ -40,9 +40,9 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |Febr.6| Lecture 3: LDS; Kalman filtering | kalmanderivations.pdf | Brainstorm project ideas |
 |Febr.8| Lab 3: Basic probability review. LDS inference | | |
 |Febr.13 |EM. Particle filtering | LDSlearning.pdf, particlefiltering.pdf | |
-|Febr.15 |Lab LSD: learning  | | |
+|Febr.15 |Lab LSD: learning  | | Project proposal due Febr. 27 |
 |Febr.20 |Lecture 4: HMMs | hmms.pdf | Problem set 2, due March 2|
-|Febr.22| Lab 4: HMMs | |  Project proposal due Febr. 27|
+|Febr.22| Lab 4: HMMs | | Problem set 3, due March 22 |
 |Febr.27 | Lecture 5: An unified view of linear models. Beyond linear. | Roweis and Ghahramani, 1999 |
 |March 1 | Lab 5: Revisiting ARIMA, focus on applications | arima.pdf |
 |March 6 | Midterm | | |
