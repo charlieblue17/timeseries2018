@@ -37,12 +37,12 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |Jan.25| Lab1: Simulating simple stochastic processes. Basic statistics. | | |
 |Jan.30| Lecture 2: AR(I)MA | Shumway Stoffer Ch.3 | |
 |Febr.1| Lab 2: AR(I)MA | | Problem set 1, due Febr. 12 |
-|Febr.6| Lecture 3: LDS; Kalman filtering | kalmanderivations.pdf | Brainstorm project ideas |
+|Febr.6| Lecture 3: LDS; Kalman filtering | [kalman derivations] (kalmanderivations.pdf) | Brainstorm project ideas |
 |Febr.8| Lab 3: Basic probability review. LDS inference | | |
-|Febr.13 |EM. Particle filtering | | |
-|Febr.15 |Lab LSD: learning  | | Problem set 2, due Febr.27|
-|Febr.20 |Lecture 4: HMMs | |  Project proposal due!|
-|Febr.22| Lab 4: HMMs | | |
+|Febr.13 |EM. Particle filtering | [em] (LDSlearning.pdf) [particle filtering] (particlefiltering.pdf)| |
+|Febr.15 |Lab LSD: learning  | | |
+|Febr.20 |Lecture 4: HMMs | | Problem set 2, due March 2|
+|Febr.22| Lab 4: HMMs | |  Project proposal due Febr. 27|
 |Febr.27 | Lecture 5: An unified view of linear models. Beyond linear. | Roweis and Ghahramani, 1999 |
 |March 1 | Lab 5: Revisiting ARIMA, focus on applications | |
 |March 6 | Midterm | | |
