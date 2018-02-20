@@ -38,15 +38,15 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |Jan.30| Lecture 2: AR(I)MA | Shumway Stoffer Ch.3 | |
 |Febr.1| Lab 2: AR(I)MA | | Problem set 1, due Febr. 12 |
 |Febr.6| Lecture 3: LDS; Kalman filtering | kalmanderivations.pdf | Brainstorm project ideas |
-|Febr.8| Lab 3: Basic probability review. LDS inference | | |
+|Febr.8| Lab 3: Basic probability review. LDS inference | | Project proposal due Febr. 27 |
 |Febr.13 |EM. Particle filtering | LDSlearning.pdf, particlefiltering.pdf | |
-|Febr.15 |Lab LSD: learning  | | Project proposal due Febr. 27 |
+|Febr.15 |Lab LSD: learning  | |  |
 |Febr.20 |Lecture 4: HMMs | hmms.pdf | Problem set 2, due March 2|
 |Febr.22| Lab 4: HMMs | | Problem set 3, due March 22 |
 |Febr.27 | Lecture 5: An unified view of linear models. Beyond linear. | Roweis and Ghahramani, 1999 |
 |March 1 | Lab 5: Revisiting ARIMA, focus on applications | arima.pdf |
 |March 6 | Midterm | | |
-|March 8 | No lab | | Problem set 3, due March 22|
+|March 8 | No lab | | |
 |March 20| Guest lecture: State space models in the brain, Il Memming Park| | |
 |March 22| No lab | | |
 |March 27 | Lecture 6: GP basics | | |
