@@ -33,20 +33,20 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 
 | Date | Lecture  | Extras | |
 |----------|---------------|----------------|----------------|
-|Jan.23| Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series. | Shumway Stoffer Ch.1  | |
-|Jan.25| Lab1: Simulating simple stochastic processes. Basic statistics. | | |
-|Jan.30| Lecture 2: AR(I)MA | Shumway Stoffer Ch.3 | |
-|Febr.1| Lab 2: AR(I)MA | | Problem set 1, due Febr. 12 |
-|Febr.6| Lecture 3: LDS; Kalman filtering | | Brainstorm project ideas |
-|Febr.8| Lab 3: Basic probability review. LDS inference | | |
-|Febr.13 |Particle filtering | | |
-|Febr.15 |Lab LSD: learning  | | Problem set 2, due Febr.27|
-|Febr.20 |Lecture 4: Dimensionality reduction | |  Project proposal due!|
-|Febr.22| Lab 4: Dimensionality reduction | | |
-|Febr.27 | Lecture 5: HMMs, mixing it up| | |
-|March 1 | Lab 5: HMMs| | |
+|Jan.23| [Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series.](https://github.com/charlieblue17/timeseries2018/blob/master/lecture1.pdf) | [Shumway Stoffer Ch.1](http://www.stat.pitt.edu/stoffer/tsa4/) | |
+|Jan.25| [Lab1: Simulating simple stochastic processes. Basic statistics.](https://github.com/charlieblue17/timeseries2018/blob/master/lab/week1/lab-week-1.pdf) | | |
+|Jan.30| [Lecture 2: AR(I)MA](https://github.com/charlieblue17/timeseries2018/blob/master/lecture2.pdf) | [Shumway Stoffer Ch.3](http://www.stat.pitt.edu/stoffer/tsa4/) | |
+|Febr.1| [Lab 2: AR(I)MA](https://github.com/charlieblue17/timeseries2018/tree/master/lab/week2) | | [Problem set 1](https://github.com/charlieblue17/timeseries2018/blob/master/homeworks/hw1.pdf), [solution](https://github.com/charlieblue17/timeseries2018/blob/master/homeworks/hw1_solution.pdf), due Febr. 12 |
+|Febr.6| [Lecture 3: LDS; Kalman filtering](https://github.com/charlieblue17/timeseries2018/blob/master/lecture3.pdf) | [kalmanderivations.pdf](https://github.com/charlieblue17/timeseries2018/blob/master/kalmanderivations.pdf) | Brainstorm project ideas |
+|Febr.8| [Lab 3: Basic probability review. LDS inference](https://github.com/charlieblue17/timeseries2018/blob/master/lab/Lab3.pdf) | | [Project proposal](https://github.com/charlieblue17/timeseries2018/blob/master/projectproposal.pdf) due Febr. 27 |
+|Febr.13 |EM. Particle filtering | LDSlearning.pdf, [particlefiltering.pdf](https://github.com/charlieblue17/timeseries2018/blob/master/particlefiltering.pdf) | |
+|Febr.15 |[Lab LSD: learning](https://github.com/charlieblue17/timeseries2018/blob/master/lab/week4/lab-week-4.pdf)  | |  |
+|Febr.20 |Lecture 4: HMMs | [hmms.pdf](https://github.com/charlieblue17/timeseries2018/blob/master/hmm.pdf) | [Problem set 2](https://github.com/charlieblue17/timeseries2018/blob/master/homeworks/hw2.pdf), due March 2|
+|Febr.22| Lab 4: HMMs | | Problem set 3, due March 22 |
+|Febr.27 | Lecture 5: An unified view of linear models. Beyond linear. | Roweis and Ghahramani, 1999 |
+|March 1 | Lab 5: Revisiting ARIMA, focus on applications | arima.pdf |
 |March 6 | Midterm | | |
-|March 8 | No lab | | Problem set 3, due March 22|
+|March 8 | No lab | | |
 |March 20| Guest lecture: State space models in the brain, Il Memming Park| | |
 |March 22| No lab | | |
 |March 27 | Lecture 6: GP basics | | |
