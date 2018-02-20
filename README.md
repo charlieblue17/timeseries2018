@@ -33,7 +33,7 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 
 | Date | Lecture  | Extras | |
 |----------|---------------|----------------|----------------|
-|Jan.23| Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series. | Shumway Stoffer Ch.1  | |
+|Jan.23| Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series. | [Shumway Stoffer Ch.1](http://www.stat.pitt.edu/stoffer/tsa4/) | |
 |Jan.25| Lab1: Simulating simple stochastic processes. Basic statistics. | | |
 |Jan.30| Lecture 2: AR(I)MA | Shumway Stoffer Ch.3 | |
 |Febr.1| Lab 2: AR(I)MA | | Problem set 1, due Febr. 12 |
