@@ -9,7 +9,7 @@ Thu, 6.45- 7.35pm in  60 5th Av, C12
 
 ###  Instructor 
 Cristina Savin, csavin@nyu.edu
-Office hours: Mo, 4:30-5:30pm, Room 608
+Office hours: Tue, 5:00-6:00pm, Room 608
 
 ### TA 
 Yiqiu (Artie) Shen, ys1001@nyu.edu
