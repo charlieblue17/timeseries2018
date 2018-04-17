@@ -42,7 +42,7 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |Febr.13 |[Lecture 4: EM. Particle filtering](https://github.com/charlieblue17/timeseries2018/blob/master/slides/lecture4.pdf) | [LDSlearning.pdf](https://github.com/charlieblue17/timeseries2018/blob/master/handouts/LDSlearning.pdf), [particlefiltering.pdf](https://github.com/charlieblue17/timeseries2018/blob/master/handouts/particlefiltering.pdf) | |
 |Febr.15 |[Lab 4: LSD learning](https://github.com/charlieblue17/timeseries2018/blob/master/lab/week4/lab-week-4.pdf)  | |  |
 |Febr.20 |[Lecture 5: HMMs](https://github.com/charlieblue17/timeseries2018/blob/master/slides/lecture5.pdf) | [hmm.pdf](https://github.com/charlieblue17/timeseries2018/blob/master/handouts/hmm.pdf) | [Problem set 2](https://github.com/charlieblue17/timeseries2018/blob/master/homeworks/hw2.pdf), due March 2|
-|Febr.22| Lab 5: HMMs | | Problem set 3, due March 30 |
+|Febr.22| Lab 5: HMMs | | [Problem set 3](https://github.com/charlieblue17/timeseries2018/blob/master/homeworks/hw3.pdf), due March 30 |
 |Febr.27 | Lecture 6: An unified view of linear models. Beyond linear. | Roweis and Ghahramani, 1999 |
 |March 1 | Lab 6: Revisiting ARIMA, focus on applications | arima.pdf |
 |March 6 | Midterm | | |
