@@ -47,13 +47,13 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |March 1 | Lab 6: Revisiting ARIMA, focus on applications | arima.pdf |
 |March 6 | Midterm | | |
 |March 8 | No lab | | |
-|March 20| Guest lecture: State space models in the brain, Il Memming Park| | |
+|March 20| Guest lecture: State space models in the brain, Il Memming Park| email CS for slides| |
 |March 22| No lab | | |
-|March 27 | Lecture 6: GP basics | | |
+|March 27 | [Lecture 8: GP basics](https://github.com/charlieblue17/timeseries2018/blob/master/slides/lecture8.pdf) | | |
 |March 29 | Lab: GP  | | |
 |April 3 | Guest lecture: RNNs Kyunghyun Cho | | |
 |April 5| Recitation: read discuss RNNs state of the art| | |
-|April 10| Lecture 7 GP advanced topics: overcoming computational limitation; extrapolation SM kernels.|||
+|April 10| [Lecture 10: Sparse GP methods](https://github.com/charlieblue17/timeseries2018/blob/master/slides/lecture10.pdf)|||
 |April 12| Lab 7: GP|| Problem set 4, due April 20 |
 |April 17| Lecture 8 Spectral methods |||
 |April 19| Lab 8 |||
