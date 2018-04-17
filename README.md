@@ -58,7 +58,7 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |April 19| Lab | no lab ||
 |April 24| Lecture 11: Spectral methods |||
 |April 26| Lab: Spectral methods |||
-|May 1| Final projects presentation | [Instructiobs](https://github.com/charlieblue17/timeseries2018/blob/master/projectwriteup.pdf) | Corresponding reports due April 26!|
+|May 1| Final projects presentation | [Instructions](https://github.com/charlieblue17/timeseries2018/blob/master/projectwriteup.pdf) | Corresponding reports due April 26!|
 
 
 ### Bibliography
