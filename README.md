@@ -47,19 +47,18 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |March 1 | Lab 6: Revisiting ARIMA, focus on applications | arima.pdf |
 |March 6 | Midterm | | |
 |March 8 | No lab | | |
-|March 20| Guest lecture: State space models in the brain, Il Memming Park| | |
+|March 20| Guest lecture: State space models in the brain, Il Memming Park | email CS for slides  | |
 |March 22| No lab | | |
 |March 27 | Lecture 6: GP basics | | |
 |March 29 | Lab: GP  | | |
-|April 3 | Guest lecture: RNNs Kyunghyun Cho | | |
-|April 5| Recitation: read discuss RNNs state of the art| | |
-|April 10| Lecture 7 GP advanced topics: overcoming computational limitation; extrapolation SM kernels.|||
-|April 12| Lab 7: GP|| Problem set 4, due April 20 |
-|April 17| Lecture 8 Spectral methods |||
-|April 19| Lab 8 |||
-|April 24| Lecture 9 Spectral methods 2|||
-|April 26| Lab 9 |||
-|May 1| Final projects presentation || Corresponding reports due April 26!|
+|April 3 | Guest lecture: RNNs Kyunghyun Cho | [slides](https://github.com/charlieblue17/timeseries2018/blob/master/slides/rnn_timeseries.pptx |
+|April 5| Preparing project report | | |
+|April 12| Lab 7: GP|| [Problem set 4](https://github.com/charlieblue17/timeseries2018/blob/master/homeworks/hw4.pdf, due April 26 |
+|April 17| Lecture 7 GP advanced topics: sparse GP methods.| [Lecture 10: HMMs](https://github.com/charlieblue17/timeseries2018/blob/master/slides/lecture10.pdf) | [sparseGP1](https://github.com/charlieblue17/timeseries2018/blob/master/sparseGP.pdf)  [sparseGP2](https://github.com/charlieblue17/timeseries2018/blob/master/sparseGPunderstandingpdf)|
+|April 19| Lab 8 | No lab ||
+|April 24| Lecture 9 Spectral methods |||
+|April 26| Lab 9: Spectral methods |||
+|May 1| Final projects presentation ||  [Instructions](https://github.com/charlieblue17/timeseries2018/blob/master/project/projectwriteup.pdf) Corresponding reports due April 26!|
 
 
 ### Bibliography
