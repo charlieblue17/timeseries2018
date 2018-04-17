@@ -51,8 +51,8 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |March 22| No lab | | |
 |March 27 | [Lecture 8: GP basics](https://github.com/charlieblue17/timeseries2018/blob/master/slides/lecture8.pdf) | | |
 |March 29 | Lab: GP  | | |
-|April 3 | Guest lecture: RNNs Kyunghyun Cho | | |
-|April 5| Recitation: read discuss RNNs state of the art| | |
+|April 3 | [Lecture 9: RNNs (Kyunghyun Cho)](https://github.com/charlieblue17/timeseries2018/blob/master/slides/rnn_timeseries.pptx) | | |
+|April 5| Projects status discussion | | |
 |April 10| [Lecture 10: Sparse GP methods](https://github.com/charlieblue17/timeseries2018/blob/master/slides/lecture10.pdf)|||
 |April 12| Lab 7: GP|| Problem set 4, due April 20 |
 |April 17| Lecture 8 Spectral methods |||
